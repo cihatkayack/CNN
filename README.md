@@ -1,4 +1,6 @@
 # CNN (Convolutional Neural Network) Nedir?
+(CNN.ipynb dosyasını colab üzerinde açmak daha faydalı olacaktır.)
+
 CNN (Convolutional Neural Network), derin öğrenme alanında sıkça kullanılan bir yapay sinir ağı türüdür. Görüntü işleme, görüntü sınıflandırma, nesne tespiti ve diğer görsel veri analizi görevlerinde başarılı sonuçlar elde etmek için kullanılır. CNN'ler, verilerin özelliklerini hiyerarşik olarak öğrenmek için farklı katmanlardan oluşur.
 
 Bu Jupyter defteri, en temel haliyle CNN'in temel yapı taşlarını açıklamak ve PyTorch ile nasıl kodlandığını göstermek için tasarlanmıştır.
